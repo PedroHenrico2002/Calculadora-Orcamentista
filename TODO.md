@@ -16,3 +16,9 @@
 **Teste:** Navegador aberto com `start index.html`. Cadastre produtos e teste a busca!
 
 App melhorado e pronto! Este TODO pode ser deletado.
+
+git add .
+git commit -m "Initial commit"
+git push -u origin main
+
+
