@@ -17,8 +17,6 @@
 
 App melhorado e pronto! Este TODO pode ser deletado.
 
-git add .
-git commit -m "Initial commit"
-git push -u origin main
+
 
 
